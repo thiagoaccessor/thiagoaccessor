@@ -9,7 +9,7 @@
     <a href="mailto:thiagomaccessor@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/thiago-a-352b0123/" target="_blank">
+    <a href="" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
@@ -41,7 +41,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,nestjs,expressjs,react,nextjs,tailwind,prisma,docker,mysql,postgres,mongo" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=linux,server2019,azure,zabbix,docker,mysql,sqlserver,vmware,hyper-v" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
 </div>
