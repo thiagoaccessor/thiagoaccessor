@@ -9,7 +9,7 @@
     <a href="mailto:thiagomaccessor@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/thiago-oliveira-5b2287206/" target="_blank">
+    <a href="https://www.linkedin.com/in/thiago-a-352b0123/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
