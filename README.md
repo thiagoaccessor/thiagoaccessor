@@ -18,12 +18,8 @@
   <tr>
     <td valign="middle" align="center" width="50%">
       <h3>About myself</h3>
-      <p valign="middle" align="center">
-        
-        
+      <p valign="middle" align="center">            
         With 17 years of experience in IT Technology, I started my journey as a Support Technician in 2006. Over the years, I have evolved my career into areas of technical support and infrastructure. 2014 was already working with Network and telephony. In the year 2016, I started administering Windows servers. 2018 I migrated to the area of Linux Server Administration and virtualization. 2021, after passing the Microsoft AZ 900 and AZ 104 exams, I started my career in Cloud.
-
-
       </p>
     </td>
     <td valign="middle" align="center" width="50%">
