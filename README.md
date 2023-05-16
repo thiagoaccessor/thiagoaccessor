@@ -41,7 +41,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,azure,grafana,docker,mysql" alt="My Skills" style="max-width: 100%; width: 100%;">
+      <img src="https://skillicons.dev/icons?i=linux,powershell,azure,grafana,docker,mysql,git,py,raspberrypi" alt="My Skills" style="max-width: 100%; width: 100%;">
     </a>
   </p>
 </div>
@@ -52,7 +52,7 @@
     </h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,c,cs,java,python" alt="My Skills" >
+        <img src="https://skillicons.dev/icons?i=kubernetes,rocket,jenkins" alt="My Skills" >
       </a>
     </p>
   </div>
