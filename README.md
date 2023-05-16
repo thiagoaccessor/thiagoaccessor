@@ -41,11 +41,7 @@
   </h3>
   <p align="center">
     <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,powershell,azure,grafana,docker,mysql,git,py,raspberrypi" alt="My Skills" style="max-width: 100%; width: 100%;">
-      <img src="https://skillicons.dev/icons?i=linux,microsoft,azure,grafana,docker,mysql" alt="My Skills" style="max-width: 100%; width: 100%;">
->>>>>>> 48ac217d52ec39c7a0e0a04f7bb6ff81c9a6385d
-    </a>
-  </p>
+<img src="https://skillicons.dev/icons?i=linux,powershell,azure,grafana,docker,mysql,git,py,raspberrypi" alt="My Skills" style="max-width: 100%;</a></p>
 </div>
 <div align="center" style="display: flex; justify-content: space-around; width: 100%;">
   <div align="center" width="50%">
