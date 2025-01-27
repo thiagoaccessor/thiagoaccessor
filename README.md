@@ -18,8 +18,10 @@
   <tr>
     <td valign="middle" align="center" width="50%">
       <h3>About myself</h3>
-      <p valign="middle" align="center">            
-        With 17 years of experience in IT Technology, I started my journey as a Support Technician in 2006. Over the years, I have evolved my career into areas of technical support and infrastructure. 2014 was already working with Network and telephony. In the year 2016, I started administering Windows servers. 2018 I migrated to the area of Linux Server Administration and virtualization. 2021, after passing the Microsoft AZ 900 and AZ 104 exams, I started my career in Cloud.
+      <p valign="middle" align="center">        
+ 
+Com 18 anos de experiência em Tecnologia da Informação, iniciei minha jornada como Técnico de Suporte em 2006. Ao longo dos anos, evoluí minha carreira nas áreas de suporte técnico e infraestrutura. Em 2014, comecei a trabalhar com Redes e Telefonia. No ano de 2016, passei a administrar servidores Windows, e, em 2018, migrei para a área de Administração de Servidores Linux e Virtualização.
+Em 2021, após ser aprovado nos exames Microsoft AZ-900 e AZ-104, iniciei minha carreira na área de Cloud. Mais recentemente, fui aprovado nos exames AZ-305 e AZ-400, consolidando meu conhecimento em arquitetura de soluções e DevOps. Atualmente, trabalho como DevOps e especialista em Cloud, com foco na plataforma Azure, onde desenvolvo soluções para infraestrutura, automação e integração contínua.
       </p>
     </td>
     <td valign="middle" align="center" width="50%">
