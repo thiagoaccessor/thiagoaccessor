@@ -20,8 +20,20 @@
       <h3>About myself</h3>
       <p valign="middle" align="center">        
  
-Com 18 anos de experiência em Tecnologia da Informação, iniciei minha jornada como Técnico de Suporte em 2006. Ao longo dos anos, evoluí minha carreira nas áreas de suporte técnico e infraestrutura. Em 2014, comecei a trabalhar com Redes e Telefonia. No ano de 2016, passei a administrar servidores Windows, e, em 2018, migrei para a área de Administração de Servidores Linux e Virtualização.
-Em 2021, após ser aprovado nos exames Microsoft AZ-900 e AZ-104, iniciei minha carreira na área de Cloud. Mais recentemente, fui aprovado nos exames AZ-305 e AZ-400, consolidando meu conhecimento em arquitetura de soluções e DevOps. Atualmente, trabalho como DevOps e especialista em Cloud, com foco na plataforma Azure, onde desenvolvo soluções para infraestrutura, automação e integração contínua.
+Profissional com sólida experiência em infraestrutura de TI e Cloud Computing, atuando com Azure e AWS em projetos de alta criticidade. Expertise em administração de servidores Windows e Linux, redes, segurança, virtualização e automação.
+Nos últimos anos, direcionou sua atuação para DevOps e observabilidade, com destaque para ferramentas como Zabbix, Grafana, Loki, Tempo, Grafna Alloy e Prometheus. Monitoramento Cloud( Azure Monitor e CloudWatch) apoiando empresas a ganhar visibilidade e confiabilidade em seus ambientes.
+Forte atuação em clusters Kubernetes (AKS e EKS), Infraestrutura como Código (Terraform, Bicep, Ansible e Vagrant) e implementação de pipelines CI/CD como Azure DevOps, GitHub Actions, Bitbucket Pipelines e Jenkins. Experiência em projetos com ferramentas Azure Devops e Atlassian (Jira, Confluence) de transformação de ambientes críticos, sempre com foco em padronização, escalabilidade e redução de riscos.
+
+ Formação acadêmica:
+
+Técnico de Informática (ETEP)
+Graduação em Análise e Desenvolvimento de Sistemas (IBTA - Anglo)
+Pós-Graduação em Arquitetura e Infraestrutura de TI (Faculdade de Minas)
+MBA em Gestão de Projetos em TI (Faculdade Norte-Sul de Ensino)
+
+ Certificações:
+Microsoft: MCP Windows Server 2012, AZ-900 (Azure Fundamentals), AZ-104 (Azure Administrator), AZ-305 (Solutions Architect Expert), AZ-400 (DevOps Engineer Expert)
+Databricks: Generative AI Fundamentals
       </p>
     </td>
     <td valign="middle" align="center" width="50%">
