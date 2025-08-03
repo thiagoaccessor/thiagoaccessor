@@ -21,7 +21,7 @@
       <p valign="middle" align="center">        
  
 Profissional com sólida experiência em infraestrutura de TI e Cloud Computing, atuando com Azure e AWS em projetos de alta criticidade. Expertise em administração de servidores Windows e Linux, redes, segurança, virtualização e automação.
-Nos últimos anos, direcionou sua atuação para DevOps e observabilidade, com destaque para ferramentas como Zabbix, Grafana, Loki, Tempo, Grafna Alloy e Prometheus. Monitoramento Cloud( Azure Monitor e CloudWatch) apoiando empresas a ganhar visibilidade e confiabilidade em seus ambientes.
+Nos últimos anos, direcionou sua atuação para DevOps e observabilidade, com destaque para ferramentas como Zabbix, Grafana, Loki, Tempo, Grafana Alloy e Prometheus. Monitoramento Cloud( Azure Monitor e CloudWatch) apoiando empresas a ganhar visibilidade e confiabilidade em seus ambientes.
 Forte atuação em clusters Kubernetes (AKS e EKS), Infraestrutura como Código (Terraform, Bicep, Ansible e Vagrant) e implementação de pipelines CI/CD como Azure DevOps, GitHub Actions, Bitbucket Pipelines e Jenkins. Experiência em projetos com ferramentas Azure Devops e Atlassian (Jira, Confluence) de transformação de ambientes críticos, sempre com foco em padronização, escalabilidade e redução de riscos.
 
  Formação acadêmica:
