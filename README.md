@@ -21,27 +21,18 @@
       <p valign="middle" align="center">        
  
 Profissional com sólida experiência em infraestrutura de TI e Cloud Computing, atuando com Azure, AWS e Oracle em projetos de alta criticidade. Expertise em administração de servidores Windows e Linux, redes, segurança, virtualização e automação.
-
-Nos últimos anos, direcionei para atuar com DevOps e observabilidade, com destaque para ferramentas como Zabbix, Grafana, Loki, Tempo, Grafana Alloy e Prometheus. Monitoramento Cloud( Azure Monitor e CloudWatch) apoiando empresas a ganhar visibilidade e confiabilidade em seus ambientes.
-
 Forte atuação em clusters Kubernetes (AKS, EKS e OKE), Infraestrutura como Código (Terraform, Bicep, Ansible e Vagrant) e implementação de pipelines CI/CD como Azure DevOps, GitHub Actions, Bitbucket Pipelines e Jenkins. Experiência em projetos com ferramentas Azure Devops e Atlassian (Jira, Confluence) de transformação de ambientes críticos, sempre com foco em padronização, escalabilidade e redução de riscos.
-
 Formação acadêmica:
 
 Técnico de Informática (ETEP)
-
 Graduação em Análise e Desenvolvimento de Sistemas (IBTA - Anglo)
-
 Pós-Graduação em Arquitetura e Infraestrutura de TI (Faculdade de Minas)
-
 MBA em Gestão de Projetos em TI (Faculdade Norte-Sul de Ensino)
 
  Certificações:
 
 Microsoft: MCP Windows Server 2012, AZ-900 (Azure Fundamentals), AZ-104 (Azure Administrator), AZ-305 (Solutions Architect Expert), AZ-400 (DevOps Engineer Expert)
-
 Oracle: Oracle Cloud Infrastructure 2025 Foundations Associate, Oracle Cloud Infrastructure 2025 AI Foundations Associate, Oracle Data Platform 2025 Foundations Associate
-
 Scrum: Scrum Foundation Professional Certification - SFPC™ (2025)
 
 HashiCorp: Terraform Associate (003)
